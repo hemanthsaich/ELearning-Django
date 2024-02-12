@@ -1,7 +1,4 @@
-# E-learning-Django
-
-Live Link:-
-https://edurekanet.herokuapp.com/   
+# E-learning-Django  
 
 Screenshots:- 
 
